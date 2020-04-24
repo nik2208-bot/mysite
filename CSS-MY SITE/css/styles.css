@@ -1,0 +1,145 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #effcef;
+  position: relative;
+  padding: 100px;
+}
+
+.intro{
+  width: 40%;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: #66BFBF;
+}
+
+.mech {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #66BFBF;
+}
+
+.production {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+  width: 100px;
+}
+
+.factory{
+  position: relative;
+  top: 100px;
+width: 40%;
+}
+
+.robot {
+  position: absolute;
+  width: 100px;
+  left: 200px;
+}
+
+.middle-container {
+  margin: 100px auto 100px auto;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 50px;
+  border-width: 5px;
+  color: #EAF6F6;
+  margin: 100px auto;
+}
+
+.pimage{
+  width: 20%;
+
+}
+.cimage {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.word {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 40px auto 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px 0 20px;
+}
+
+.a:hover{
+  color: white;
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto;
+}
+
+.footer-link {
+  color: #11999E;
+  padding: 10px 20px;
+  text-decoration: none;
+
+}
+
+.copyryt {
+  color: #EAF6F6;
+  font-size: 8px;
+  padding: 20px 10px;
+}
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #2bc4ad;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+	background-color:#11cdd4;
+	border-radius:6px;
+	border:1px solid #30e3cb;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+	background-color:#11999e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
